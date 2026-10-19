@@ -6,11 +6,10 @@ Checkpoint 5 — **SOA e WebServices** (Prof. Carlos Eduardo Machado de Oliveira
 
 | Nome | RM |
 |------|----|
-| _Nome do integrante 1_ | _RM00000_ |
-| _Nome do integrante 2_ | _RM00000_ |
-| _Nome do integrante 3_ | _RM00000_ |
-| _Nome do integrante 4_ | _RM00000_ |
-| _Nome do integrante 5_ | _RM00000_ |
+| Eric Darakjian | RM557082 |
+| Kauã Soares Guimarães | RM559044 |
+| Pietro Vitor Pezzente | RM557283 |
+| Enzo Mikael Sanches | RM558887 |
 
 ## Tecnologias
 
